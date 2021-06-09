@@ -18,4 +18,16 @@ code {
     monospace;
 }
 
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #282c45;
+  font-weight: 600;
+}
+li {
+  list-style: none;
+}
 
+.nav {
+  display: flex;
+}
